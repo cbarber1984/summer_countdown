@@ -1,23 +1,18 @@
 # Summer Countdown
 
 
-## A simple HTML page with a JavaScript countdown to student dismissal and CSS styling.
+## An HTML page with a JavaScript countdown to student dismissal and CSS styling.
 
 - I wanted to create this page as a fun way to practice HTML, JavaScript, and CSS. The end of the school year is always a busy and exciting time with multiple overlapping dealines. I wanted a countdown to student dismissal to display on the projector to encourage students to look forward to summer break.
 - This project helped me understand the CSS concepts necessary to center divs and text. I also practiced using a color pallet to style my page.
 
-
-
-
-
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-
   
    ![screenshot of page](assets/images/screenshot.png)
    
-
+## Next Steps
+- I recognize that this could be a helpful resource for fellow faculty members to track school-wide dates such as testing, vacations, and grade deadlines.
+- Move JavaScript from inline to an external file.
+- I would like to explore the use of modules to make it easy to add new dates submitted by faculty.
 
 ## Credits
 
