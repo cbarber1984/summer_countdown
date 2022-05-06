@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: #581845;
+    font-size: 20px;
+  }
+  
+  
+  
+  .countdown {
+    background-color: #C70039;
+    width: 50%;
+    margin: auto;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h1 {
+    font-size: 5vw;
+    color: #FFC300;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 4vw;
+    margin: 2vw;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  #app {
+    height: 100vh;
+    
+    /* grid container settings */
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+      'header'
+      'main'
+      'footer';
+  }
+  
