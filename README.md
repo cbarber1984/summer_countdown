@@ -4,7 +4,7 @@
 ## An HTML page with a JavaScript countdown to student dismissal and CSS styling.
 
 - I wanted to create this page as a fun way to practice HTML, JavaScript, and CSS. The end of the school year is always a busy and exciting time with multiple overlapping dealines. I wanted a countdown to student dismissal to display on the projector to encourage students to look forward to summer break.
-- This project helped me understand the CSS concepts necessary to center divs and text. I also practiced using a color pallet to style my page.
+- This project helped me understand the CSS concepts necessary to center divs and text. I also practiced using a color pallette to style my page.
 
   
    ![screenshot of page](assets/images/screenshot.png)
